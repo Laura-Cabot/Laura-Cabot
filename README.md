@@ -67,3 +67,30 @@ const laura = {
 ---
 
 <p align="center"><em>“Siempre aprendiendo, siempre mejorando.”</em></p>
+
+---
+
+<p align="center"><em>“Siempre aprendiendo, siempre mejorando.”</em></p>
+
+---
+
+<!-- 📊 Estadísticas de GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laura-cabot&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+</p>
+
+<!-- 🔥 Racha de actividad -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laura-cabot&theme=tokyonight" alt="Racha de actividad de GitHub" />
+</p>
+
+<!-- 🧠 Lenguajes más usados -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-cabot&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+
+<!-- 👀 Contador de visitas -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laura-cabot&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
