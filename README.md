@@ -30,7 +30,7 @@ const laura = {
 - Diplomatura en Front-End — *Universidad Nacional de Tres de Febrero*
 
 📘 **Cursos y certificaciones**:
-- Certificación de Scrum (en curso)
+- Certificación de Scrum (ScrumStudy)
 - Otros cursos complementarios de programación
 - Estudio de inglés (nivel inicial)
 
@@ -62,7 +62,7 @@ const laura = {
 ## 📫 Contacto
 
 - ✉️ **Email**: [laura.cabottgmail.com](mailto:laura.cabottgmail.com)  
-- 💼 **LinkedIn**: *(en construcción)*
+- 💼 **LinkedIn**: https://www.linkedin.com/in/laura-cabot/
 
 ---
 
