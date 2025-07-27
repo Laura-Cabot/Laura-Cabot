@@ -20,6 +20,8 @@ const laura = {
   enProceso: ["React", "Scrum", "Inglés"]
 };
 ```
+## 🚀 Proyectos Destacados
+- [Million Home Designs (Frontend + Backend)](https://laura-cabot.github.io/integrador-decoracion-backend/)
 
 ---
 
